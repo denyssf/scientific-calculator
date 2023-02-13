@@ -1,2 +1,2 @@
 # scientific-calculator
-to test  – [Scientific Calculator](https://scientific-calculator-denys.netlify.app) – YourEmail@example.com
+to test  – [Scientific Calculator](https://scientific-calculator-denys.netlify.app)
